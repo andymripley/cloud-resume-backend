@@ -9,4 +9,5 @@ steps:
   - --source=.
   - --trigger-http
   - --runtime=python39
+  - --entry-point=increment
   - --allow-unauthenticated
