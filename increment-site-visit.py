@@ -1,5 +1,3 @@
-#Simple firestore update
-
 from google.cloud import firestore
 
 def increment(request):
